@@ -81,7 +81,7 @@ export default function Contact() {
   const features = [
     {
       icon: Headphones,
-      title: "24/7 Support, Ellam Naanga panna matom",
+      title: "24/7 Support,Ellam Naanga panna matom",
       description: "Get help whenever you need it",
     },
     {
